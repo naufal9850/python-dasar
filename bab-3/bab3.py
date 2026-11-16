@@ -37,3 +37,5 @@ z = str(x)   # konversi ke string
 
 print(y, type(y))  # 10.0 <class 'float'>
 print(z, type(z))  # "10" <class 'str'>
+
+
